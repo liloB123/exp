@@ -13,3 +13,5 @@ print(" Hello " , name ," How are you: " )
 
 print("Lihi")
 print("Jerusalem")
+
+"hello!"
